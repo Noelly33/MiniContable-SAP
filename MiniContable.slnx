@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MiniContable.Core/MiniContable.Core.csproj" />
+    <Project Path="src/MiniContable.Infrastructure/MiniContable.Infrastructure.csproj" />
+    <Project Path="src/MiniContable.Integrations/MiniContable.Integrations.csproj" />
+    <Project Path="src/MiniContable.Web/MiniContable.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MiniContable.Core.Tests/MiniContable.Core.Tests.csproj" />
+    <Project Path="tests/MiniContable.Infrastructure.Tests/MiniContable.Infrastructure.Tests.csproj" />
+    <Project Path="tests/MiniContable.Integrations.Tests/MiniContable.Integrations.Tests.csproj" />
+  </Folder>
+</Solution>

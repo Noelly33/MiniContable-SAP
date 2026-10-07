@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\MiniContable.Infrastructure\MiniContable.Infrastructure.csproj" />
+    <ProjectReference Include="..\MiniContable.Integrations\MiniContable.Integrations.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <BlazorDisableThrowNavigationException>true</BlazorDisableThrowNavigationException>
+    <UserSecretsId>d4495179-b287-4da2-a916-cb8642ab45f2</UserSecretsId>
+  </PropertyGroup>
+
+</Project>
