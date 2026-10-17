@@ -2,8 +2,6 @@
 
 Sistema contable de partida doble que modela la contabilidad con los conceptos de **SAP FI** y se integra con **ERPNext**.
 
-> Proyecto educativo de portafolio. No reemplaza un sistema contable oficial. Los datos son de demostración.
-
 ## Conceptos de SAP FI que replica
 
 | SAP | MiniContable |
